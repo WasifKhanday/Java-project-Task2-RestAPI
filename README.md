@@ -100,9 +100,10 @@ Status:
 201 Created
 ```
 
+
 ### Screenshot
 
-<img width="1207" height="787" alt="image" src="https://github.com/user-attachments/assets/6b899c98-5a06-4afc-9f61-834a8e2a93b6" />
+<img width="1097" height="862" alt="image" src="https://github.com/user-attachments/assets/495760d6-c3b6-4a20-8281-e54057e70d20" />
 
 
 ---
@@ -131,8 +132,8 @@ Status:
 ```
 
 ### Screenshot
+<img width="1101" height="812" alt="image" src="https://github.com/user-attachments/assets/628ae53f-9815-4953-9e9b-255c28c1db34" />
 
-Insert screenshot of GET ALL request and response.
 
 ---
 
@@ -159,7 +160,8 @@ Status:
 
 ### Screenshot
 
-Insert screenshot of GET BY ID request and response.
+<img width="1077" height="818" alt="image" src="https://github.com/user-attachments/assets/f9956ded-4008-4b31-a6ac-71a229520c23" />
+
 
 ---
 
@@ -194,7 +196,8 @@ Status:
 
 ### Screenshot
 
-Insert screenshot of PUT request and response.
+<img width="1231" height="768" alt="image" src="https://github.com/user-attachments/assets/bd656e47-32c7-49d5-b91e-49ce4c9601ec" />
+
 
 ---
 
@@ -214,7 +217,8 @@ Status:
 
 ### Screenshot
 
-Insert screenshot of DELETE request and response.
+<img width="1132" height="765" alt="image" src="https://github.com/user-attachments/assets/7459224b-def1-4dd9-a484-7d5e9f396f30" />
+
 
 ---
 
@@ -240,7 +244,8 @@ Status:
 
 ### Screenshot
 
-Insert screenshot showing exception handling.
+<img width="1103" height="762" alt="image" src="https://github.com/user-attachments/assets/d6418d5d-88c4-4407-a349-46f9940c8b45" />
+
 
 ---
 
@@ -255,12 +260,6 @@ The following HTTP methods were verified:
 - PUT
 - DELETE
 
-### Screenshot
-
-Insert screenshot of Postman collection or requests.
-
----
-
 ## Swagger UI
 
 Swagger UI was used to visualize and test the API endpoints.
@@ -271,7 +270,8 @@ http://localhost:8080/swagger-ui/index.html
 
 ### Screenshot
 
-Insert screenshot of Swagger UI.
+<img width="1910" height="1042" alt="image" src="https://github.com/user-attachments/assets/d9567c1a-6490-4bea-b565-8e5a2ec3c3be" />
+
 
 ---
 
@@ -291,7 +291,8 @@ SELECT * FROM PRODUCT;
 
 ### Screenshot
 
-Insert screenshot showing records stored in the PRODUCT table.
+<img width="1906" height="1025" alt="image" src="https://github.com/user-attachments/assets/1559331c-bbcc-47d4-89d2-d5678cffd78e" />
+
 
 ---
 
